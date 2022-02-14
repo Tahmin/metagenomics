@@ -2,6 +2,15 @@
 *.fastq
 *.csv
 *.tab
+*.nsq
+*.ndb
+*.nhr
+*.nin
+*.nog
+*.nos
+*.not
+*.ntf
+*.nto
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
