@@ -11,6 +11,16 @@
 *.not
 *.ntf
 *.nto
+*.bowtie2
+*.txt
+*.bz2
+*.out
+*.bak
+*.tar
+*.bt2
+*.md5
+*.pkl
+*.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
