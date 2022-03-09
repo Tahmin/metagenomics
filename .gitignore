@@ -21,6 +21,11 @@
 *.md5
 *.pkl
 *.gz
+*.invalid
+*.dmp
+*.zip
+*.accession2taxid
+*.prt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
